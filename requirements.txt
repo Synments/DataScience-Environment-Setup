@@ -1,0 +1,6 @@
+Python 套件列表：
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Jupyter
